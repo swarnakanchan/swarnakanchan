@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dr. Swarna Kanchan, a computational biologist and working in NGS/Multi-Omics analysis of Human cell-line (RNA_seq bulk) based data to explore the mechanisms of protein failors to mictochondria and their associations with disease and pathology in humans. 
+- 👋 Hi, I’m Dr. Swarna Kanchan, a computational biologist and working in NGS/Multi-Omics analysis of Human cell-line (RNA_seq bulk) based data to explore the mechanisms of protein failors to mitochondria and their associations with disease and pathology in humans. 
 - 👀 I’m interested in Bioinformatics, Multiomics data analysis, Machine learning, GO enrichment analysis, Pathway and network annalysis, evolution, Phylogeny, Protein modelling etc.
 - 🌱 I’m currently using R, C, Perl, Python etc.
 - 💞️ I’m looking to collaborate with people which are working on statistical analysis of large high throughput genomic datasets, machine learning, epigenomics, and high performace cluster computing.
