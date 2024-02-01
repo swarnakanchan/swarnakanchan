@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dr. Swarna Kanchan, working as Staff Scientist at Marshall university, Huntington, WV, United States. 
+- 👋 Hi, I’m Dr. Swarna Kanchan, working as Staff Scientist at Marshall University, Huntington, WV, United States. 
 - 👀 I’m interested in Bioinformatics, Multiomics data analysis, Machine learning, GO enrichment analysis, Pathway and network annalysis, Protein evolution, Phylogeny, Protein modelling, Drug Design etc.
 - 🌱 I’m currently using R, C, Perl, Python etc.
 - 💞️ I’m looking to collaborate with people which are working on large high throughput genomic datasets, machine learning, epigenomics, high performace cluster computing.
